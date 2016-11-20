@@ -1,1 +1,1 @@
-# Scrolltop-Button
+# Scrolltop-Button. My first JS script.
